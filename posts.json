@@ -1,44 +1,9 @@
 [
     {
-        "id": "example_1",
-        "title": "Blog Title 1",
-        "released_at": "2024-01-31",
-        "image_path": "pexels-jess-bailey-designs-839443.jpg",
-        "read_time_in_minutes": 5
-    },
-    {
-        "id": "example_2",
-        "title": "Blog Title 2",
-        "released_at": "2024-01-25",
-        "image_path": "pexels-kaboompics-com-6469.jpg",
-        "read_time_in_minutes": 15
-    },
-    {
-        "id": "example_3",
-        "title": "Blog Title 3",
-        "released_at": "2024-01-31",
-        "image_path": "pexels-karolina-grabowska-4386365.jpg",
-        "read_time_in_minutes": 20
-    },
-    {
-        "id": "example_4",
-        "title": "Blog Title 4",
-        "released_at": "2024-01-30",
-        "image_path": "pexels-karolina-grabowska-4386365.jpg",
-        "read_time_in_minutes": 7
-    },
-    {
-        "id": "example_5",
-        "title": "Blog Title 5",
-        "released_at": "2024-02-31",
-        "image_path": "pexels-monstera-production-6373309.jpg",
-        "read_time_in_minutes": 12
-    },
-    {
-        "id": "example_6",
-        "title": "Blog Title 6",
-        "released_at": "2024-03-31",
-        "image_path": "pexels-monstera-production-6373309.jpg",
-        "read_time_in_minutes": 17
+        "id": "breaking_the_ice",
+        "title": "Breaking the ice",
+        "released_at": "2024-04-17",
+        "image_path": "breaking_the_ice.jpg",
+        "read_time_in_minutes": 1
     }
 ]
