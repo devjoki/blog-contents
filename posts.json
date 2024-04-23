@@ -5,5 +5,12 @@
         "released_at": "2024-04-17",
         "image_path": "breaking_the_ice.jpg",
         "read_time_in_minutes": 1
+    },
+    {
+        "id": "creating_the_blog",
+        "title": "Creating this blog",
+        "released_at": "2024-04-23",
+        "image_path": "creating_the_blog.webp",
+        "read_time_in_minutes": 10
     }
 ]
