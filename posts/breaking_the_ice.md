@@ -1,5 +1,6 @@
 ![post_logo](../images/breaking_the_ice.jpg)
 # Breaking the ice
+## Overcoming Blogging Jitters
 
 I've wanted to have a blog for a long time, but it's been really hard to get myself to do it. I made a lot of excuses, like I don't have the skills, I'm bad at design and many more...<br/>
 When I finally did it, I immediately faced the next obstacle: writing a post (which I am now trying to overcome).<br/>

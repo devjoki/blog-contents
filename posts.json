@@ -7,10 +7,17 @@
         "read_time_in_minutes": 1
     },
     {
-        "id": "creating_the_blog",
-        "title": "Creating this blog",
+        "id": "behind_the_blog",
+        "title": "Behind the Blog",
         "released_at": "2024-04-23",
         "image_path": "creating_the_blog.webp",
-        "read_time_in_minutes": 10
+        "read_time_in_minutes": 15
+    },
+    {
+        "id": "git_prepare_commit_message",
+        "title": "Maximizing Productivity",
+        "released_at": "2024-05-11",
+        "image_path": "git_hook.jpg",
+        "read_time_in_minutes": 5
     }
 ]
