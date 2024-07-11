@@ -48,7 +48,7 @@ Achieving this without a real backend was not so easy, but I came up with the id
 
 The project for the blog contents has the following structure:
 * The post metadata 
-  * this is just a json file that describe where teh posts are and some other methadata
+  * this is just a json file that describe where the posts are and some other metadata
 * the posts folder
   * each post is a separate markdown file
 * the images folder
