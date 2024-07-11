@@ -1,10 +1,17 @@
 [
     {
-        "id": "breaking_the_ice",
-        "title": "Breaking the ice",
-        "released_at": "2024-04-17",
-        "image_path": "breaking_the_ice.jpg",
-        "read_time_in_minutes": 1
+        "id": "vfox",
+        "title": "Say Goodbye to Version Hell",
+        "released_at": "2024-07-11",
+        "image_path": "vfox.jpg",
+        "read_time_in_minutes": 3
+    },
+    {
+        "id": "git_prepare_commit_message",
+        "title": "Maximizing Productivity",
+        "released_at": "2024-05-11",
+        "image_path": "git_hook.jpg",
+        "read_time_in_minutes": 5
     },
     {
         "id": "behind_the_blog",
@@ -14,10 +21,10 @@
         "read_time_in_minutes": 15
     },
     {
-        "id": "git_prepare_commit_message",
-        "title": "Maximizing Productivity",
-        "released_at": "2024-05-11",
-        "image_path": "git_hook.jpg",
-        "read_time_in_minutes": 5
+        "id": "breaking_the_ice",
+        "title": "Breaking the ice",
+        "released_at": "2024-04-17",
+        "image_path": "breaking_the_ice.jpg",
+        "read_time_in_minutes": 1
     }
 ]
