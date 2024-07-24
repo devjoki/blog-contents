@@ -1,10 +1,10 @@
 [
     {
         "id": "vfox",
-        "title": "Say Goodbye to Version Hell",
+        "title": "Effortless Environment Setup",
         "released_at": "2024-07-11",
         "image_path": "vfox.jpg",
-        "read_time_in_minutes": 3
+        "read_time_in_minutes": 5
     },
     {
         "id": "git_prepare_commit_message",
